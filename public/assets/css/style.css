@@ -1,0 +1,51 @@
+
+#bodystyle {
+    background-color:purple;
+}
+
+#jbtImg {
+    height: 100%;
+    width:15em;
+}
+
+.jbtText {
+    font-family: 'Times New Roman', sans-serif;
+    margin:0;
+ }
+
+label {
+    font-family: 'Times New Roman', sans-serif;
+}
+
+input {
+    font-family: 'Times New Roman', sans-serif;
+}
+
+
+.jumbotron {
+    padding: 0;
+}
+
+.task {
+    text-align: center;
+}
+
+#bgDevourBtn {
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1em;
+    margin: 8px 0;
+}
+
+.rowTextHeader1 {
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1.5em;
+    margin-left: 3em;
+    text-align:center;
+}
+
+#rowHeader2 {
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1.5em;
+    margin-left: 1em;
+    text-align:center
+}
